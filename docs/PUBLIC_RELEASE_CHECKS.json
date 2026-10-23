@@ -1,0 +1,17 @@
+{
+  "version": "1.2.6",
+  "native_version": "1.45",
+  "license": "GPL-3.0-only",
+  "generated_utc": "2026-10-23T20:42:15.051460+00:00",
+  "source_files": 22,
+  "production_source_and_assets_unchanged": true,
+  "desktop_build_verified": true,
+  "build_and_tests_shell": "PowerShell 7",
+  "portable_test_checks": 108,
+  "previous_full_checks": 891,
+  "native_build_script_verified": "3 MQ5 files, 0 errors, 0 warnings each",
+  "personal_runtime_files_excluded": true,
+  "product_sha256": "8840b4cd1262a93472a26053d3f8b8c2f0bdef22b42297a941ad4365f4124e23",
+  "native_ex5_sha256": "3022692883d402573680a42685787def67edb0fe9883449b7d2daf48384f2bfb",
+  "publication_prepared": true
+}

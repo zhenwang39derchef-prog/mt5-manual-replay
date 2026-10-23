@@ -1,0 +1,24 @@
+# Local builds and test fixtures
+dist/
+.build/
+*.pdb
+*.log
+
+# Personal runtime state
+settings.json
+last-session.json
+practice-sequence.json
+last-replay.ini
+*self-test*.txt
+*self-test*.png
+*preview*.png
+交易记录/
+图表演练记录/
+收工档案/
+CN_Manual_Replay/
+compile-*.log
+图表坐标诊断.txt
+
+# Editors
+.vs/
+.vscode/

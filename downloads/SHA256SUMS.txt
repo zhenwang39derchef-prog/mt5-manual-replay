@@ -1,0 +1,2 @@
+1e90f1131fade1b5978666e4d96cd0cab376e11818c994d7656f700accd8c172  mt5-manual-replay-v1.2.6-source.zip
+1496e475e953dd3d62013875f5526cc63805a59fcaf37114d0dfb2d270299110  mt5-manual-replay-v1.2.6-windows-x64.zip
